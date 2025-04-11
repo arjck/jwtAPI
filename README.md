@@ -1,4 +1,4 @@
-<p align="center"
+<p align="center">
   JWT example with Laravel
   </p>
 
